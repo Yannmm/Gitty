@@ -4,4 +4,8 @@ i like it pretty much.
 git has mutable index.
 git tracks changes.
 i like the way it is.
+//<<<<<<< HEAD
 creating a new branch is quick & simple.
+//=======
+creating a new branch is quick and simple.
+//>>>>>>> feature1
