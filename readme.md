@@ -10,3 +10,5 @@ creating a new branch is quick & simple.
 creating a new branch is quick and simple.
 //>>>>>>> feature1
 i think it's about time.
+
+i just do this from cloner.
